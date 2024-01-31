@@ -5,8 +5,8 @@ export default function App() {
     name: "Jessica",
     lastname: "Randall",
     city: "London",
-    bio: "Front-end developer and avid reader.",
     country: "United Kingdom",
+    bio: "Front-end developer and avid reader.",
     media: ["GitHub", "Frontend Mentor", "LinkedIn", "Twitter", "Instagram"],
   };
 
